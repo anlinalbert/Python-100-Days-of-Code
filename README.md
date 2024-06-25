@@ -3,3 +3,5 @@ Welcome to my GitHub repository for the "100 Days of Code: The Complete Python P
 
 # Try Demo Verisons
 1. Blackjack: https://appbrewery.github.io/python-day11-demo/
+2. Guess the Number: https://appbrewery.github.io/python-day12-demo/
+3. Higher Lower: https://appbrewery.github.io/python-day14-demo/
